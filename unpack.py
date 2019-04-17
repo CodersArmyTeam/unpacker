@@ -14,9 +14,9 @@ def png_files(content):
 
     files_count = len(starts)
 
-    #for x in range(files_count):
-    #    result_file = open('GRAPH/' + str(x) + '.png', 'wb')
-    #    result_file.write(content[starts[x]:ends[x]])
+    for x in range(files_count):
+        result_file = open('GRAPH/' + str(x) + '.png', 'wb')
+        result_file.write(content[starts[x]:ends[x]])
 
 def ogg_files(content):
     p = re.compile(b'\x4F\x67\x67\x53')
