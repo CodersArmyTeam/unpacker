@@ -19,19 +19,20 @@ def png_files(content):
         result_file.write(content[starts[x]:ends[x]])
 
 def ogg_files(content):
-    p = re.compile(b'\x4F\x67\x67\x53')
+    p = re.compile(b'\x4F\x67\x67\x53\x00\x02')
     headers = []
     for header in p.finditer(content):
         headers.append(header.start())
 
     files_count = len(headers)
+    print(files_count)
 
-    #for x in range(files_count):
-    #    result_file = open('OGG/' + str(x) + '.ogg', 'wb')
-    #    if x < len(headers)-1:
-    #        result_file.write(content[headers[x]:headers[x+1]-1])
-    #    else:
-    #        result_file.write(content[headers[x]:])
+    for x in range(files_count):
+        result_file = open('OGG/' + str(x) + '.ogg', 'wb')
+        if x < len(headers)-1:
+            result_file.write(content[headers[x]:headers[x+1]-1])
+        else:
+            result_file.write(content[headers[x]:])
 
 def text(content):
     text_content = content[23435323:]
