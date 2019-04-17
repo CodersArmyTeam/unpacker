@@ -1,0 +1,133 @@
+0001Saved image to the SCREENSHOT folder.
+0002
+0003
+0004Start game
+0005Exit game
+0006You found the key number
+0007New game
+0008Continue
+0009Settings
+0010
+0011
+0012Go back
+0013
+0014$p001Rob! Are you there? $p007Hello?...
+0015$p001Someone left a message...$p002"If you are reading this, your brother is not here anymore. Regards - Xio".... $p003Damn it! Rob is in big trouble!$p003That's WHY this dream seemed so realistic!
+0016$p001I wonder why Xio secured this base so much, I will come back here as I will have all the keys.
+0017Stop sleeping!
+0018$p005Information: There are save points in the world, touching them automatically saves the progress of the game.
+0019$p006Information: Global key allows access to previously inaccessible areas
+0020$p010Hello?$p009........$p009total silence ...
+0021$p008èêëêéêëëëëëëëëëëëëëëëëëë ëëëëëëë ëëëëëëëëëëëëëëëë ëëë ëëëëë ëëëëëëëëëëëëëëëëëëë ëëëëëëìëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëëëëëëëëëëë ëëëëëëìëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëë ëëëëë ëëëëëëëëëëëëëëëëëëë ëëëëëëìëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëëëëë ëëëëëëëë ëëëëëë$p004The funny thing is that you are in this place. $p015Just like you cheat and modify the original version of the game!
+0022$p012...!!!
+0023$p004ROB ATEPRAKS LIVES HERE.$p004NO TRESSPASSING. 
+0024$p011Who are you and what are you doing?$p013I'M BUSY NOW.$p011GET OUT of here before you're still alive.$p009...$p012w..what have you done with my brother?$p011I have a plan that I have to put into practice, so get out of my way as long as I'm nice.$p011You're just destroying my plan.$p011You do not even know what your brother was doing with this artifact.$p016It will be better for me to keep it.$p010...And what about my brother?$p016Let me keep him for a while. He will be my instructor about this amulet.$p014NEVER IN MY LIFE!$p013DO YOU REALLY THINK YOU HAVE ANY CHANCES WITH ME?$p015Hahahahaha$p015ha...$p015ha...$p015ha.$p015haha.
+0025$p001Who was responsible for all this?
+0026$p004Watch out for the underground guard - "Kolota"! 
+0027Return to the game
+0028Return to the game menu
+0029Return to the checkpoint
+0030$p004"Mersanz" - guard of the ice caves. 
+0031Continue
+0032End
+0033Death count: 
+0034Apply
+0035Cancel
+0036Hardware acceleration:
+0037Linear filtering:
+0038Music volume:
+0039Global volume:
+0040VSync:
+0041Loading info (debug):
+0042Yep
+0043Nope
+0044
+0045$p011...    You    are   so funny.
+0046$p014I have a feeling that you are talking too much!$p014END$p014OF$p014IIIIIIIIIT!
+0047$p001That was the last key, I'll come back down.
+0048$p017You monster! Leave me alone!$p018Chill out... Do you think I'll let you keep this amulet?$p018Hahaha.$p018Now it is MINE.$p018Good times have passed, my friend.$p018Give me this amulet of power or YOU WILL HAVE PROBLEMS!$p018Come to me.$p017HELP ME!!
+0049$p001....I must visit my brother.
+0050$p019...$p020...
+0051$p020Bob?$p019Yes?
+0052$p020Thanks, you're the best brother.
+0053$p019You're welcome. 
+0054$p020You saved my life.
+0055$p019I saved not only you, but all of humanity.$p019No one should get this amulet.
+0056
+0057Easy
+0058Medium
+0059Hard
+0060Very hard
+0061Impossible
+0062
+0063
+0064Speedrun Mode (counter)
+0065Lives: 
+0066Maximum bullet count on the screen: 
+66
+0001Zapisano obraz do folderu SCREENSHOT.
+0002
+0003
+0004Zacznij grę
+0005Wyjdź z gry
+0006Znalazłeś klucz 
+0007Nowa gra
+0008Kontynuuj
+0009Ustawienia gry
+0010
+0011
+0012Wróć
+0013
+0014$p001Rob! Jesteś tam? $p007HALO! ...
+0015$p001Ktoś zostawił kartkę...$p002"Jeżeli to czytasz to twojego brata już tutaj nie ma. Pozdrawiam - Xio".... $p003A niech to! Rob jest w dużych tarapatach!$p003Nie bez powodu ten sen wydawał się tak bardzo realistyczny!
+0016$p001Niezłe wymogi ma Xio z tymi kluczami!
+0017Przestań spać
+0018$p005Informacja: Na świecie umieszczone są punkty zapisu, dotknięcie ich powoduje automatyczne zapisywanie postępu gry na dysk.
+0019$p006Informacja: Globalny klucz umożliwia dostęp do miejsc niedostępnych wcześniej.
+0020$p010Halo?$p009........$p009absolutna cisza...
+0021$p008èêëêéêëëëëëëëëëëëëëëëëëë ëëëëëëë ëëëëëëëëëëëëëëëë ëëë ëëëëë ëëëëëëëëëëëëëëëëëëë ëëëëëëìëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëëëëëëëëëëë ëëëëëëìëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëë ëëëëë ëëëëëëëëëëëëëëëëëëë ëëëëëëìëëëëëëëëëëëëëë ëëëëë ëëëëëëëëëëëëë ëëëëëëëë ëëëëëë$p004Śmieszne jest to, że jesteś w tym miejscu. $p015Zupełnie jak to, że oszukujesz i modyfikujesz oryginalną wersję gry lub załączyłeś sobie hacki.
+0022$p012...!!!
+0023$p004WSTĘP WZBRONIONY. $p004TU MIESZKA ROB ATEPRAKS. 
+0024$p011Kim ty jesteś i co wyprawiasz?$p013ZAJĘTY JESTEM TERAZ.$p011Zmykaj mi z oczu dopóki żyjesz.$p009...$p012c..co zrobiłeś z moim bratem?$p011Mam plan, który muszę wcielić w życie, a więc spadaj mi z drogi, dopóki jestem miły.$p011Psujesz tylko mój plan.$p011Nawet nie masz pojęcia, co twój brat robił z tym artefaktem..$p016Lepiej będzie, jeśli przechowam go JA.$p010...A mój brat to co?$p016Pozwól, że zatrzymam go na jakiś czas. Będzie moim instruktorem, co do tego amuletu.$p014PO MOIM TRUPIE!!!$p013AŻ TAK BARDZO SĄDZISZ, ŻE MASZ W OGÓLE JAKIEŚ SZANSE ZE MNĄ?$p015Hahahahaha$p015ha...$p015ha...$p015ha.$p015haha.
+0025$p001Kto za tym wszystkim stał?
+0026$p004Uwaga na Strażnika Podziemi - "Kolota"! 
+0027Wróć do gry
+0028Wróć do menu gry
+0029Wróć do checkpointu
+0030$p004"Mersanz" - strażnik lodowych podziemi. 
+0031Kontynuuj rozgrywkę
+0032Koniec gry
+0033Ilość śmierci: 
+0034Zastosuj
+0035Anuluj
+0036Akceleracja sprzętowa:
+0037Filtrowanie linearne:
+0038Głośność muzyki w grze:
+0039Globalna głośność gry:
+0040VSync:
+0041Okno postępu ładowania (debug):
+0042Tak
+0043Nie
+0044
+0045$p011...     Śmieszny         jesteś.
+0046$p014Mam wrażenie, że za dużo paplasz!$p014KONIEC$p014Z$p014TYYYYYYYYYYYYYYYYYYYM!
+0047$p001To był już ostatni klucz, wrócę na dół.
+0048$p017Ty potworze! Zostaw mnie w spokoju!$p018Daj sobie spokój... Myślisz, że pozwolę ci zatrzymać ten amulet?$p018Hahaha.$p018Od teraz jest on MÓJ.$p018Minęły dobre czasy, mój chłopcze.$p018Dawaj ten amulet mocy lub SROGO POŻAŁUJESZ.$p018Podejdź do mnie.$p017POMOCY!
+0049$p001....muszę odwiedzić swojego brata.
+0050$p019...$p020...
+0051$p020Bob?$p019Tak?
+0052$p020Dzięki, jesteś najlepszym bratem.
+0053$p019Nie ma sprawy, przecież czego się nie robi dla rodziny?
+0054$p020Uratowałeś mi życie.
+0055$p019Uratowałem nie tylko ciebie, ale całą ludzkość.$p019Ten amulet nie powinien być w obcych rękach.
+0056
+0057Łatwy
+0058Normalny
+0059Trudny
+0060Arcytrudny
+0061Niemożliwy
+0062
+0063
+0064Speedrun Mode (licznik)
+0065Maksymalna ilóść śmierci: 
+0066Maksymalna ilość pocisków na ekranie: 
